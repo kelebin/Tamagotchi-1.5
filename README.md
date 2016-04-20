@@ -10,4 +10,4 @@ Requisitos tamagotchi 1.5
 - Morte                --- OK
 - Evoluir              --- FALTA
 - Estrutura Comida     --- FALTA
-
+- Salvar Progresso     --- FALTA
