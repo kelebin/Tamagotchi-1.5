@@ -26,7 +26,7 @@ toma.saude = 100;
 toma.fome = 10;
 toma.felicidade = 50;
 toma.xp = 0;
-printf("Bem vindo ao seu Tamagotchi");
+printf("Bem vindo ao seu Tamagotchi versao 2.0");
 printf("\n\n");
 printf("\nInforme o nome do seu Tamagotchi\n");
    fgets(toma.nome,50,stdin);
